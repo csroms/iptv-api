@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 07:26:11,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2026-07-15 19:55:48,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
@@ -751,6 +751,7 @@ CCTV-17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
+动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8$订阅源
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8$订阅源
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$订阅源
@@ -959,7 +960,6 @@ CCTV-17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4
 广元公共,http://tv.scjyhd.com:4022/udp/239.10.0.61:5140
 广元综合,http://tv.scjyhd.com:4022/udp/239.10.0.60:5140
 广安公共,http://tv.scjyhd.com:4022/udp/239.10.0.59:5140
-广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 康巴卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND$订阅源
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$订阅源
 康巴卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源
@@ -1601,7 +1601,9 @@ JJ斗地主,https://cdn-3.ttvb.eu.org/bilibili/22021983
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
+动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002
 新动漫,http://tv.scjyhd.com:4022/udp/239.10.0.159:5140
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989$订阅源
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000$订阅源
 青春动漫,http://tv.scjyhd.com:4022/udp/239.93.0.146:5140
